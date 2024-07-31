@@ -1,0 +1,8 @@
+directories:
+  path:  'D:\\video_audio\\video'
+  path1: 'D:\\video_audio\\audio'
+  path2: 'D:\\video_audio\\transcriptions'
+
+settings:
+  batch_size: 1
+  cooling_time: 10  # in seconds
